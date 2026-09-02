@@ -2,8 +2,9 @@
 
 - Repository: `Saber5656/dryrun`
 - Pull request: #1
-- Reviewed head: `a0035133e7d43b0f2f2f03f4e5739d297b0479d3`
+- Original PR head before this resolution addendum: `a0035133e7d43b0f2f2f03f4e5739d297b0479d3`
 - Scope: the review findings listed below are converted into normative design contracts and focused verification gates.
+- The immutable current PR head is supplied by the parent task's fresh GitHub read immediately before review/reply/resolve; any later head change invalidates this review evidence and requires a fresh review.
 - This addendum records design-level handling only; it does not claim implementation, test, build, CI, or security validation is complete.
 - Per task instruction, the PR review bot is not re-triggered after these responses/resolutions.
 
